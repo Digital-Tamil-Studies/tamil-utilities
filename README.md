@@ -1,1 +1,1 @@
-# tamil-utilities
+# tamil-text-processing-scripts
